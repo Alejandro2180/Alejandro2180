@@ -2,7 +2,7 @@
 # Hey there I'm Alec! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <!--Introduction -->
-I'm a **Full Stack Software Engineer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm a **Full Stack Software Engineer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**.
 <br>
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'd love to get to know you more!</b> :blush:</em>
 
@@ -17,12 +17,12 @@ I'm a **Full Stack Software Engineer**:iphone:, looking to solve **real-world pr
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Things that I'm currently working on: 
-* :computer: Rebuild the Front-End of an Angular Web Application used to faciliate messaging between students, parents and staff
+* :computer: Rebuild the Front-End of an Angular Web Application used to faciliate messaging between students, parents and staff for k-12 schools
 * :iphone: Build a React Native app used to control a rasberry pi through a Drupal server
 * :pencil: Freelance Wordpress web design
 
 ### 🌱 Goals I have for myself:
-* :ice_cube: Continue to self learn about blockchain technologies and smart contracts
+* :world_map: Continue to self learn about blockchain technologies and smart contracts
 * :hourglass_flowing_sand: Get accepted into the Plutus Pioneer Program to learn about Haskell and smart contracts on the Cardano blockchain
 * :brain: Become more proficient in Angular Web Development, specifically...
 
@@ -34,7 +34,7 @@ I'm a **Full Stack Software Engineer**:iphone:, looking to solve **real-world pr
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/Alejandro2180?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+    <img width="500" height="auto" align="right" alt="Alec's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Alejandro2180&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Alec's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro2180&layout=compact" />
