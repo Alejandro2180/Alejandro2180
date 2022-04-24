@@ -7,7 +7,7 @@ I'm a **Full Stack Software Engineer**:iphone:, looking to solve **real-world pr
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'd love to get to know you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Alec_Johnson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alec-johnson-931567161)
+[![Linkedin](https://img.shields.io/badge/-Alec_Johnson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alec-johnson-dev)
 [![Gmail](https://img.shields.io/badge/-Alec_Johnson-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alec.lee.johnson@gmail.com)
 
 <!-- Profile View Count -->
